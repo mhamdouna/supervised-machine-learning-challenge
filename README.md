@@ -12,14 +12,14 @@
 * Split the data into X_train, X_test, y_train, y_test.
 
 For LogisticRegression:
-* Import ###LogisticRegression Library from sklearn.
+* Import **LogisticRegression** Library from sklearn.
 * Set up an classifier instance, and fit it to the X_train and y_train values.
 * Find model score. 
 
 For Random Forest Classifer:
-* Import ###StandardScaler Library from sklearn to scale all parameters.
+* Import **StandardScaler** Library from sklearn to scale all parameters.
 * Set up an scaler instance, and fit it to the X_train values, then transform it with the X_test values.
-* Import ###RandomForestClassifier Library from sklearn.
+* Import **RandomForestClassifier** Library from sklearn.
 * Set up an instance, and find the score for both the training and testing data. 
 
 
